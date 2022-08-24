@@ -12,3 +12,20 @@
     margin: 20px 200px;
     color: white;
 }
+
+.image.blurb{
+    display: flex;
+    border-bottom: 2px solid red;
+}
+
+img {
+    float: left;
+    margin: 20px;
+    border: 15px dashed red;
+}
+
+.blurb{
+    float: right;
+    text-align: justify;
+    margin: 0 50px auto auto;
+}
