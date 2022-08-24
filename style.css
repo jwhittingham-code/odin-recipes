@@ -1,0 +1,14 @@
+/*Style sheet*/
+
+.title{
+    
+    background-color: rgb(48, 48, 48);
+    padding: 10px;
+    margin: -10px  -10px 15px -10px;
+}
+.title h1 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin: 20px 200px;
+    color: white;
+}
